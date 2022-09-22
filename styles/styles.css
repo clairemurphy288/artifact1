@@ -1,0 +1,35 @@
+
+.cover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.web-box {
+    height: 100vh;
+    background-color: black;
+    padding: 5%;
+    line-height: 1.6;
+    font-size: large;
+    font-family: 'Nanum Gothic', sans-serif;
+    color: white;
+}
+.photo-box {
+    background-color: pink;
+}
+.photo-box-col {
+    padding: 5%;
+    padding-top:0;
+}
+.photo-box-wrapper {
+    background-color: #D800A6;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.header {
+    color: #31E1F7;
+    font-weight: 600;
+}
+.scroll {
+    height: 80vh;
+    overflow: scroll;
+}
